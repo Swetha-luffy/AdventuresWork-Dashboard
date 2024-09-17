@@ -1,4 +1,6 @@
 AdventureWorks Sales Analysis Dashboard
+
+
 Overview
 This repository contains the Power BI project for AdventureWorks' sales analysis dashboard. The dashboard provides a comprehensive view of the company's sales performance, including revenue, profit, orders, and product-specific metrics.
 Features
