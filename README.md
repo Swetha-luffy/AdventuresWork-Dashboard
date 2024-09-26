@@ -1,11 +1,11 @@
-AdventureWorks Sales Analysis Dashboard
+# AdventureWorks Sales Analysis Dashboard
 
 
-Overview
+# Overview
 
 This repository contains the Power BI project for AdventureWorks' sales analysis dashboard. The dashboard provides a comprehensive view of the company's sales performance, including revenue, profit, orders, and product-specific metrics.
 
-Features
+# Features
 
 Real-time KPI tracking (Revenue, Profit, Orders, Return Rate)
 
@@ -19,7 +19,7 @@ Monthly revenue, orders, and returns tracking
 
 Most ordered and most returned product types
 
-Dashboard Components:
+# Dashboard Components:
 
 KPI Summary: Displays top-level metrics including total revenue ($25M), profit ($10.5M), number of orders (25K), and return rate (2.17%).
 
@@ -34,7 +34,7 @@ Monthly Metrics: Cards showing current month's revenue ($1,826,987), orders (214
 Product Insights: Quick view of the most ordered product type (Tires and Tubes) and most returned product type (Shorts).
 
 
-Setup and Usage
+# Setup and Usage
 
 Prerequisites:
 
@@ -78,7 +78,7 @@ Click on categories in the "Order by Category" chart to filter other visuals.
 
 Use the scroll bar in the product performance table to view all products.
 
-Sharing and Publishing:
+# Sharing and Publishing:
 
 To share the dashboard, go to File > Publish > Publish to Power BI.
 
